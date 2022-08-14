@@ -1,0 +1,30 @@
+
+.py-5 h1{
+
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom:15px;
+  }
+.homepage a:hover{
+  color: #e74c3c;
+  text-decoration: none;
+  opacity: .8;
+}
+.text-center{
+
+}
+  .album{
+    background-color:rgb(59, 94, 81);
+    }
+@media (max-width: 1199px){
+  .row h1{
+    font-size: 56px;
+    margin-bottom: 30px;
+  }
+  @media (max-width: 991px){
+    .row h1{
+      font-size: 44px;
+    }
+    .row p{
+      padding:0 10px;
+    }
+ }
